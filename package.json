@@ -1,0 +1,12 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "author": "Hoang Tran",
+	"type":"module",
+  "scripts": {
+    "test": "jasmine --config=spec/jasmine.json"
+  },
+  "devDependencies": {
+    "jasmine": "^5.1.0"
+  }
+}
